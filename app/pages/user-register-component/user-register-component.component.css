@@ -1,0 +1,31 @@
+.body {
+  font-family: 'Ubuntu', sans-serif !important;
+  background-color: #f5f4ff !important;
+  min-height: 100vh; /* Establece la altura mínima del elemento a la altura de la ventana */
+  display: flex; /* Utiliza flexbox para expandir el contenido verticalmente */
+  flex-direction: column; /* Alinea el contenido en columna */
+}
+
+nav{
+  background-color: #070228 !important;
+}
+
+.persona-img{
+
+  width: 150px;
+  border-radius: 50%;
+
+}
+
+.agg-img{
+  width: 150px;
+}
+
+.persona-img-big{
+  width: 200px;
+  border-radius: 50%;
+}
+
+.img-404{
+  width: 200px;
+}
